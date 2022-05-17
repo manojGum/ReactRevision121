@@ -39,10 +39,10 @@ function ContactList(){
     return(
         <div>
             {data.map((item)=>(
-                <ContactCard name={item.name} email={item.email} phone={item.email} image={item.image}/>
+                <ContactCard key={item.Id} name={item.name} email={item.email} phone={item.phone} image={item.image}/>
             ))}
         </div>
     );
-}
+} 
 
 export default ContactList;

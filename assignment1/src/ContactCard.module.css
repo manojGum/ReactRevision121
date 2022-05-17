@@ -3,5 +3,14 @@
     border-radius:0.5rem;
     display: flex;
     gap: 2rem;
+    gap: 2rem;
+    margin-bottom: 0.25rem;
+    border-bottom: 1px solid gray;
+    border-bottom-left-radius:0rem;
+    border-bottom-right-radius: 0rem;
 }
+.container:hover{
+    cursor: pointer;
+}
+
 
