@@ -1,3 +1,9 @@
+#qustions:-
+https://masai-course.s3.ap-south-1.amazonaws.com/editor/uploads/2022-05-16/Screenshot%202022-05-16%20at%206.31.48%20PM_353321.png
+Create the following UI for a list of contacts that you have
+on clicking the contact card you should expand the card and show the phone number as well, clicking on it again, you should hide it ( use local state and conditional rendering for this)
+use keys
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
