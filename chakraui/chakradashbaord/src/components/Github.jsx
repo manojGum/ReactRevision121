@@ -41,7 +41,8 @@ const Github = () => {
   </Box>
         ):(
             <Box p={2}>
-            <Heading>GetHub search</Heading>
+            <Heading>Recent 
+Jobsh</Heading>
             <SimpleGrid gap={4} columns={2}>
 
             
